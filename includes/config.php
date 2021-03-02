@@ -4,7 +4,7 @@
 
 	$timezone = date_default_timezone_set("Asia/Calcutta");
 
-	$con = mysqli_connect("localhost","root","","slotify");
+	$con = mysqli_connect("3.23.178.115","root","Flatron12!","slotify");
 
 	if(mysqli_connect_errno())
 	{
